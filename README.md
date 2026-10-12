@@ -1,4 +1,6 @@
-# 视频制作 OS · v1.3.4
+# 视频制作 OS · v1.3.4-current.1
+
+本分支是 **yi0913 的现用版同步发布**，基于当前使用的 v1.3.4 软件。功能源码与上游提交 `725e265` 一致，本次只整理版本元数据和发布资料。它不是原作者新增的卡顿修复版本。[下载现用版](https://github.com/yi0913/video-production-os/releases/tag/v1.3.4-current.1) · [本次版本说明](CURRENT-APP-RELEASE.md)
 
 把图片／视频创作网页、剧本、固定提示词、分集资产和人物音频整理到一个本地工作台。作者：[SJT-bright](https://github.com/SJT-bright)。应用使用 Electron、Node.js、原生 HTML/CSS/JavaScript 和 SQLite；生成仍在使用者自己的第三方网站账号中完成。
 
